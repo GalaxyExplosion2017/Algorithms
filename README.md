@@ -10,5 +10,6 @@
 - [452 删除链表中的元素|Remove Linked List Elements](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/452%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0.md)
 - [463 整数排序 Sort Integers](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/463.%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers.md)
 - [464 整数排序 Sort Integers II](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/464%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers%20II.md)
+- [632 二叉树的最大结点|Binary Tree Maximum Node](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/632%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E7%BB%93%E7%82%B9Binary%20Tree%20Maximum%20Node.md)
 
 
