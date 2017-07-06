@@ -22,4 +22,8 @@
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
+* [6 Merge Two Sorted Arrays](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/6%20Merge%20Two%20Sorted%20Arrays.md)
+
+* [8 Rotate String](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/8%20Rotate%20String.md)
+
   ​
