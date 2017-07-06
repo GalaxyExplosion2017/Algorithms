@@ -9,8 +9,11 @@
 > Given `"abcdefg"`.
 >
 > offset=0 => `"abcdefg"`
+>
 > offset=1 => `"gabcdef"`
+>
 > offset=2 =>` "fgabcde"`
+>
 > offset=3 =>` "efgabcd"`
 
 #### 解题思路：
