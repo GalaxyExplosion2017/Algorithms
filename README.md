@@ -24,11 +24,10 @@
 
 * [8 Rotate String](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/8%20Rotate%20String.md)
 
-* [**9 Fizz Buzz问题**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/9%20%20Fizz%20Buzz%E9%97%AE%E9%A2%98.md)
+* [9 Fizz Buzz问题](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/9%20%20Fizz%20Buzz%E9%97%AE%E9%A2%98.md)
 
 * [**13 字符串查找strStr**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/13%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9F%A5%E6%89%BEstrStr.md)
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
   ​
-
