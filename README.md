@@ -28,6 +28,10 @@
 
 * [**13 字符串查找strStr**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/13%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9F%A5%E6%89%BEstrStr.md)
 
+* **[14 二分查找First Position of Target](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/14%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BEFirst%20Position%20of%20Target.md)**
+
+* **[28 Search a 2D Matrix](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/28%20Search%20a%202D%20Matrix.md)**
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
   ​
