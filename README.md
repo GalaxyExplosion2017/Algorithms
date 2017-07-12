@@ -32,6 +32,8 @@
 
 * **[28 Search a 2D Matrix](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/28%20Search%20a%202D%20Matrix.md)**
 
+* [30 Insert Interval](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/30%20Insert%20Interval.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
   ​
