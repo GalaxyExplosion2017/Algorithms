@@ -39,6 +39,8 @@
 
 * [**41 Maximum Subarray**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/41%20Maximum%20Subarray.md)
 
+* [44 Minimum Subarray|解法同41](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/44%20Minimum%20Subarray.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**464 整数排序 Sort Integers II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/464%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers%20II.md)
