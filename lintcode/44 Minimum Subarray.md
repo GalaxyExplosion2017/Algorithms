@@ -26,6 +26,7 @@ public class Solution {
      */
     public int minSubArray(ArrayList<Integer> nums) {
         // write your code
+        if(nums==null||nums.size()==0) return 0;
         int sum = 0;
         int min = Integer.MAX_VALUE;
         for(int i=0;i<nums.size();i++)
