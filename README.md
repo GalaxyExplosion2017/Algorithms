@@ -1,7 +1,5 @@
 ## LintCode Answer and Thinking
 
-[TOC]
-
 > 记录下刷题的思路和解题过程	
 
 ### 入门(Naive)
