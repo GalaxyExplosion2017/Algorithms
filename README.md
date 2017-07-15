@@ -39,6 +39,8 @@
 
 * [44 Minimum Subarray|解法同41](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/44%20Minimum%20Subarray.md)
 
+* [**50 Product of Array Exclude Itself**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/50%20Product%20of%20Array%20Exclude%20Itself.md)
+
 * [**53 Reverse Words in a String**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/53%20Reverse%20Words%20in%20a%20String.md)
 
 * [**55 Compare Strings**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/55%20Compare%20Strings.md)
@@ -52,4 +54,5 @@
 * [**464 整数排序 Sort Integers II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/464%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers%20II.md)
 
   ​
+
 
