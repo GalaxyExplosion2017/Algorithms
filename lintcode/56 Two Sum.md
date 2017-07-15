@@ -1,4 +1,4 @@
-# 56 Two Sum 
+# [56 Two Sum](http://www.lintcode.com/en/problem/two-sum/)
 
 **Description**
 

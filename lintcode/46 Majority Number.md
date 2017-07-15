@@ -1,4 +1,4 @@
-# 46 Majority Number
+# [46 Majority Number](http://www.lintcode.com/en/problem/majority-number/)
 
 **Description**
 

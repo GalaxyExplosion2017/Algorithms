@@ -1,4 +1,4 @@
-# 55 Compare Strings 
+# [55 Compare Strings](http://www.lintcode.com/en/problem/compare-strings/)
 
 **Description**
 

@@ -1,4 +1,4 @@
-# 60 Search Insert Position 
+# [60 Search Insert Position](http://www.lintcode.com/en/problem/search-insert-position/)
 
 **Description**
 
