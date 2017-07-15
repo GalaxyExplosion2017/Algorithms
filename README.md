@@ -41,6 +41,10 @@
 
 * [**53 Reverse Words in a String**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/53%20Reverse%20Words%20in%20a%20String.md)
 
+* [**55 Compare Strings**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/55%20Compare%20Strings.md)
+
+* [60 Search Insert Position](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/60%20Search%20Insert%20Position.md)
+
 * [56 Two Sum](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/56%20Two%20Sum.md)
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
