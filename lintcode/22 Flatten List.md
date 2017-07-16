@@ -1,4 +1,4 @@
-# 22 Flatten List 
+# [22 Flatten List](http://www.lintcode.com/en/problem/flatten-list/)
 
 **Description**
 

@@ -27,6 +27,8 @@
 
 * **[14 二分查找First Position of Target](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/14%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BEFirst%20Position%20of%20Target.md)**
 
+* [22 Flatten List](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/22%20Flatten%20List.md)
+
 * **[28 Search a 2D Matrix](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/28%20Search%20a%202D%20Matrix.md)**
 
 * [30 Insert Interval](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/30%20Insert%20Interval.md)
