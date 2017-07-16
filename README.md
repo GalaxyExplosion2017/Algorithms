@@ -47,9 +47,17 @@
 
 * [**55 Compare Strings**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/55%20Compare%20Strings.md)
 
+* [56 Two Sum](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/56%20Two%20Sum.md)
+
 * [60 Search Insert Position](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/60%20Search%20Insert%20Position.md)
 
-* [56 Two Sum](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/56%20Two%20Sum.md)
+* [**64 Merge Sorted Array**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/64%20Merge%20Sorted%20Array.md)
+
+* [**66 Binary Tree Preorder Traversal**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/66%20Binary%20Tree%20Preorder%20Traversal.md)
+
+* [**67 Binary Tree Inorder Traversal**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/67%20Binary%20Tree%20Inorder%20Traversal.md)
+
+* [**68 Binary Tree Postorder Traversal**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/68%20Binary%20Tree%20Postorder%20Traversal.md)
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
