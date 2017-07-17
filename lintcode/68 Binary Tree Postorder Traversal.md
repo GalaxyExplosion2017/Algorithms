@@ -59,9 +59,40 @@ public class Solution {
 
 **解题思路 2**
 
-
+> 迭代。解法同66，只是用到list的add(index,val)方法。创建一个辅助栈stack存储遍历的结点，先将根结点入栈，然后如果栈stack不为空，将当前结点出栈，将值加入list中，以后每次加入值都放在当前值前面，然后如果当前结点的左右结点存在，将左右结点入栈，重复上述方法，直到栈stack为空，返回list。
 
 ```java
-
+/**
+ * Definition of TreeNode:
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left, right;
+ *     public TreeNode(int val) {
+ *         this.val = val;
+ *         this.left = this.right = null;
+ *     }
+ * }
+ */
+public class Solution {
+    /**
+     * @param root: The root of binary tree.
+     * @return: Postorder in ArrayList which contains node values.
+     */
+    public ArrayList<Integer> postorderTraversal(TreeNode root) {
+        // write your code here
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        if(root==null) return list;
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        stack.push(root);
+        while(!stack.isEmpty())
+        {
+            root = stack.pop();
+            list.add(0,root.val);
+            if(root.left!=null) stack.push(root.left);
+            if(root.right!=null) stack.push(root.right);
+        }
+        return list;
+    }
+}
 ```
 
