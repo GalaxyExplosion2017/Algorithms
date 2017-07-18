@@ -1,4 +1,4 @@
-# [**69 Binary Tree Level Order Traversal **](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/)
+# [69 Binary Tree Level Order Traversal ](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/)
 
 **Description**
 

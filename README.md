@@ -59,6 +59,8 @@
 
 * [**68 Binary Tree Postorder Traversal**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/68%20Binary%20Tree%20Postorder%20Traversal.md)
 
+* [**69 Binary Tree Level Order Traversal**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/69%20Binary%20Tree%20Level%20Order%20Traversal%20.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**464 整数排序 Sort Integers II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/464%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers%20II.md)
