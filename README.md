@@ -37,7 +37,7 @@
 
 * [**39 Recover Rotated Sorted Array**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/39%20%20Recover%20Rotated%20Sorted%20Array.md)
 
-* [**41 Maximum Subarray**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/41%20Maximum%20Subarray.md)
+* [**\*41 Maximum Subarray**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/41%20Maximum%20Subarray.md)
 
 * [44 Minimum Subarray|解法同41](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/44%20Minimum%20Subarray.md)
 
@@ -62,6 +62,8 @@
 * [**69 Binary Tree Level Order Traversal**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/69%20Binary%20Tree%20Level%20Order%20Traversal%20.md)
 
 * [**80 Median**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/80%20Median.md)
+
+* [82 Single Number](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/82%20Single%20Number%20.md)
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
