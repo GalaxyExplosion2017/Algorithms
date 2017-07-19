@@ -65,6 +65,8 @@
 
 * [82 Single Number](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/82%20Single%20Number%20.md)
 
+* [**85 Insert Node in a Binary Search Tree**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/85%20Insert%20Node%20in%20a%20Binary%20Search%20Tree.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**464 整数排序 Sort Integers II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/464%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers%20II.md)
