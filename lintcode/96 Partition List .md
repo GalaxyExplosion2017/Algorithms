@@ -1,4 +1,4 @@
-# # [**96 Partition List** ](http://www.lintcode.com/en/problem/partition-list/)
+# [**\*96 Partition List**](http://www.lintcode.com/en/problem/partition-list/)
 
 **Description**
 
