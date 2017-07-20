@@ -69,6 +69,8 @@
 
 * [**93 Balanced Binary Tree**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/93%20Balanced%20Binary%20Tree.md)
 
+* [**\*96 Partition List**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/96%20Partition%20List%20.md)
+
 * [97 Maximum Depth of Binary Tree](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/97%20Maximum%20Depth%20of%20Binary%20Tree%20.md)
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
