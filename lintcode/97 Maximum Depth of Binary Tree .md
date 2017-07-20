@@ -52,3 +52,11 @@ public class Solution {
 }
 ```
 
+**一行代码解决**
+
+```java
+public int maxDepth(TreeNode root) {
+	return root == null ? 0: Math.max(maxDepth(root.left),maxDepth(root.right))+1;
+}
+```
+
