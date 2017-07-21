@@ -73,6 +73,12 @@
 
 * [97 Maximum Depth of Binary Tree](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/97%20Maximum%20Depth%20of%20Binary%20Tree%20.md)
 
+* [**100 Remove Duplicates from Sorted Array**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/100%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+
+* [**101 Remove Duplicates from Sorted Array II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/101%20Remove%20Duplicates%20from%20Sorted%20Array%20II%20.md)
+
+* [112 Remove Duplicates from Sorted List](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/112%20Remove%20Duplicates%20from%20Sorted%20List.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**464 整数排序 Sort Integers II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/464%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers%20II.md)
