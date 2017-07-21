@@ -75,7 +75,7 @@
 
 * [**100 Remove Duplicates from Sorted Array**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/100%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
-* [**101 Remove Duplicates from Sorted Array II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/101%20Remove%20Duplicates%20from%20Sorted%20Array%20II%20.md)
+* [**\*101 Remove Duplicates from Sorted Array II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/101%20Remove%20Duplicates%20from%20Sorted%20Array%20II%20.md)
 
 * [112 Remove Duplicates from Sorted List](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/112%20Remove%20Duplicates%20from%20Sorted%20List.md)
 
