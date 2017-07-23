@@ -85,6 +85,8 @@
 
 * [112 Remove Duplicates from Sorted List](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/112%20Remove%20Duplicates%20from%20Sorted%20List.md)
 
+* [**114 Unique Paths**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/114%20Unique%20Paths.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**413 Reverse Integer**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/413%20Reverse%20Integer.md)
