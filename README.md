@@ -77,7 +77,15 @@
 
 * [**\*101 Remove Duplicates from Sorted Array II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/101%20Remove%20Duplicates%20from%20Sorted%20Array%20II%20.md)
 
+* [\***109 Triangle**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/109%20Triangle.md)
+
+* [\***110 Minimum Path Sum**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/110%20Minimum%20Path%20Sum.md)
+
+* [\***111 Climbing Stairs**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/111%20Climbing%20Stairs.md)
+
 * [112 Remove Duplicates from Sorted List](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/112%20Remove%20Duplicates%20from%20Sorted%20List.md)
+
+* [**114 Unique Paths**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/114%20Unique%20Paths.md)
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
