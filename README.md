@@ -99,6 +99,10 @@
 
 * [**142 O(1) Check Power of 2**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/142%20O(1)%20Check%20Power%20of%202.md)
 
+* [155 Minimum Depth of Binary Tree](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/155%20Minimum%20Depth%20of%20Binary%20Tree.md)
+
+* [157 Unique Characters](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/157%20Unique%20Characters.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**413 Reverse Integer**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/413%20Reverse%20Integer.md)
