@@ -87,6 +87,14 @@
 
 * [**114 Unique Paths**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/114%20Unique%20Paths.md)
 
+* [**115 Unique Paths II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/115%20Unique%20Paths%20II.md)
+
+* [**128 Hash Function**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/128%20Hash%20Function.md)
+
+* [**133 Longest Words**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/133%20Longest%20Words.md)
+
+* ​
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**413 Reverse Integer**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/413%20Reverse%20Integer.md)
