@@ -95,7 +95,7 @@
 
 * [**138 Subarray Sum**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/138%20Subarray%20Sum.md)
 
-* [](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/142%20O(1)%20Check%20Power%20of%202.md)
+* [**141 Sqrt(x)**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/142%20O(1)%20Check%20Power%20of%202.md)
 
 * [**142 O(1) Check Power of 2**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/142%20O(1)%20Check%20Power%20of%202.md)
 
