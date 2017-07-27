@@ -93,7 +93,11 @@
 
 * [**133 Longest Words**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/133%20Longest%20Words.md)
 
-* ​
+* [**138 Subarray Sum**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/138%20Subarray%20Sum.md)
+
+* [](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/142%20O(1)%20Check%20Power%20of%202.md)
+
+* [**142 O(1) Check Power of 2**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/142%20O(1)%20Check%20Power%20of%202.md)
 
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
