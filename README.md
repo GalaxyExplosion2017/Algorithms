@@ -103,11 +103,23 @@
 
 * [157 Unique Characters](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/157%20Unique%20Characters.md)
 
+* [**158 Two Strings Are Anagrams**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/158%20Two%20Strings%20Are%20Anagrams.md)
+
+* [**165 Merge Two Sorted Lists**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/165%20Merge%20Two%20Sorted%20Lists.md)
+
+* [**166 Nth to Last Node in List**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/166%20Nth%20to%20Last%20Node%20in%20List.md)
+
+* [**167 Add Two Numbers**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/167%20Add%20Two%20Numbers.md)
+
+* [**172 Remove Element**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/172%20Remove%20Element.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**413 Reverse Integer**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/413%20Reverse%20Integer.md)
 
 * [**464 整数排序 Sort Integers II**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/464%20%E6%95%B4%E6%95%B0%E6%8E%92%E5%BA%8F%20Sort%20Integers%20II.md)
+
+  ​
 
   ​
 
