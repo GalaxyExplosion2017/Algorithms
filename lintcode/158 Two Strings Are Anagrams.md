@@ -1,4 +1,4 @@
-## [Two Strings Are Anagrams](http://www.lintcode.com/en/problem/two-strings-are-anagrams/)
+## [158 Two Strings Are Anagrams](http://www.lintcode.com/en/problem/two-strings-are-anagrams/)
 
 **Description**
 
