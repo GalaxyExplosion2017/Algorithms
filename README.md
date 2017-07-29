@@ -113,6 +113,12 @@
 
 * [**172 Remove Element**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/172%20Remove%20Element.md)
 
+* [**174 Remove Nth Node From End of List**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/174%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+
+* [**175 Invert Binary Tree**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/175%20Invert%20Binary%20Tree.md)
+
+* [**177 Convert Sorted Array to Binary Search Tree With Minimal Height**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/177%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree%20With%20Minimal%20Height.md)
+
 * [204 单例Singleton](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/204%20%E5%8D%95%E4%BE%8BSingleton.md)
 
 * [**413 Reverse Integer**](https://github.com/GalaxyExplosion2017/Algorithms/blob/master/lintcode/413%20Reverse%20Integer.md)
