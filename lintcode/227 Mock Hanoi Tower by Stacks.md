@@ -12,7 +12,7 @@ Write a program to move the disks from the first tower to the last using stacks.
 
 ##### Solution
 
-先将前n-1个个盘子从A移动到B，将最大的盘子从A移动到C，最后再将B中的n-1个盘子从B移动到C，由数学归纳法得出：$f(n)=2f(n-1)+1$ 
+先将前n-1个个盘子从这个塔通过目的塔destination移动到缓冲塔buffer，将最大的盘子从这个塔移动到目的塔destination，最后再将缓冲塔buffer中的n-1个盘子通过原来的塔this移动到目的塔destination，由数学归纳法得出:$f(n)=2f(n-1)+1$ 
 
 ```java
 public class Tower {
@@ -63,6 +63,5 @@ public class Tower {
  * towers[0].moveDisks(n, towers[2], towers[1]);
  * print towers[0], towers[1], towers[2]
 */
-
 ```
 
