@@ -27,6 +27,7 @@ public class Solution {
      */
     public int replaceBlank(char[] string, int length) {
         // write your code here
+        if(string == null ||length == 0) return 0;
         int count = 0;
         int len = length;
         for(char c : string)
@@ -34,7 +35,7 @@ public class Solution {
                 count++;
         len += 2*count;
         int j = 1;
-        for(int i = length-1; i > 0; i--){
+        for(int i = length-1; i >= 0; i--){
             if(string[i] == ' '){
                 string[len-j++] ='0';
                 string[len-j++] ='2';
