@@ -1,4 +1,4 @@
-## [457 Classical Binary Search](http://www.lintcode.com/en/problem/classical-binary-search/)
+## [457 Classical Binary Search](http://www.lintcode.com/en/problem/classical-binary-search/)
 
 ##### Description
 
