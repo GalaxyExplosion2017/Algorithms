@@ -1,4 +1,4 @@
-[648 First Position Unique Character]
+[646 First Position Unique Character]
 
 ##### Description
 
