@@ -1,4 +1,4 @@
-##[662 Guess Number Game](http://www.lintcode.com/en/problem/#)
+## [662 Guess Number Game](http://www.lintcode.com/en/problem/#)
 
 ##### Description
 
