@@ -86,10 +86,10 @@ public class Solution {
         stack.push(root);
         while(!stack.isEmpty())
         {
-            root = stack.pop();
-            list.add(0,root.val);
-            if(root.left!=null) stack.push(root.left);
-            if(root.right!=null) stack.push(root.right);
+            TreeNode node = stack.pop();
+            list.add(0,node.val);
+            if(node.left!=null) stack.push(node.left);
+            if(node.right!=null) stack.push(node.right);
         }
         return list;
     }
