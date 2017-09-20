@@ -29,7 +29,7 @@ class Solution {
     public int digitCounts(int k, int n) {
         // write your code here
         int totalCount = 0;
-        for(int i = 0; i <= 12; i++){
+        for(int i = 0; i <= n; i++){
             totalCount += count(k,i);
         }
         return totalCount;
@@ -37,6 +37,9 @@ class Solution {
     
     public int count(int k, int value){
         int n = 0;
+        if(k == 0 && value == 0){
+            n = 1;
+        }
         while(value != 0){
             int temp = value % 10;
             if(temp == k){
