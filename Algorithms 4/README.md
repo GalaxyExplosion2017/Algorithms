@@ -1,8 +1,6 @@
 ## 5.3字符串算法
 
-1. ####暴力破解####
-
-   暴力子字符串查找
+1. #### 暴力子字符串查找
 
    ```java
    public static int search(String pat, String txt){
@@ -20,72 +18,69 @@
    }
    ```
 
-   ​	
 
-2. ####KMP算法
+2. #### KMP算法
 
-   * 构造DFA数组，**用来保存与txt当前字符匹配成功或失败后的pat当前字符的索引的变化位置 **
+* 构造DFA数组，**用来保存与txt当前字符匹配成功或失败后的pat当前字符的索引的变化位置 **
 
-     ```java
-     dfa[pat.charAt(0)][0] = 1;
-     for(int X = 0, j = 1;j < M; j++){
-         for(int c = 0; c < R; c++){
-             dfa[c][j] = dfa[c][X];
-         }
-       dfa[pat.charAt(j)][j] = j+1;
-       x = dfa[pat.charAt(j)][X];
-     }
-     ```
+  ```java
+  dfa[pat.charAt(0)][0] = 1;
+  for(int X = 0, j = 1;j < M; j++){
+      for(int c = 0; c < R; c++){
+          dfa[c][j] = dfa[c][X];
+      }
+    dfa[pat.charAt(j)][j] = j+1;
+    x = dfa[pat.charAt(j)][X];
+  }
+  ```
 
-   * 子字符串查找算法(DFA模拟)
+* 子字符串查找算法(DFA模拟)
 
-     ```java
-     public int search(String txt){
-         int i, j, N = txt.length(), M = pat.length();
-       	for(i = 0,j = 0;i < N && j < M; i++){
-             j = dfa[txt.charAt(i)][j];
-         }
-      	if(j == M) return i-M;
-       	else return N;
-     }
-     ```
+  ```java
+  public int search(String txt){
+      int i, j, N = txt.length(), M = pat.length();
+    	for(i = 0,j = 0;i < N && j < M; i++){
+          j = dfa[txt.charAt(i)][j];
+      }
+   	if(j == M) return i-M;
+    	else return N;
+  }
+  ```
 
-   * 完整的算法
+* 完整的算法
 
-     ```java
-     public class KMP{
-         private String pat;
-       	private int[][] dfa;
-       	public KMP(String pat){
-             this.pat = pat;
-           	int M = pat.length();
-           	int R = 256;
-           	dfa = new int[R][M];
-           	dfa[pat.charAt(0)][0] = 1;
-           	for(int X = 0, j = 1; j < M; j++){
-                 for(int c = 0; c < R; c++){
-     				dfa[c][j] = dfa[c][X];
-                 }
-               	dfa[pat.charAt(j)][j] = j+1;
-               	X= dfa[pat.charAt(j)][X];
-             }
-         }
-       	public int search(String txt){
-             int i, j, N = txt.length(), M = pat.length();
-           	for(i = 0; j = 0; i < N && j <M ; i++){
-                 j = dfa[pat.charAt(i)][j];
-             }
-           	if(j == M) return i - N;
-           	else return N;
-         }
-     }
-     ```
+  ```java
+  public class KMP{
+      private String pat;
+    	private int[][] dfa;
+    	public KMP(String pat){
+          this.pat = pat;
+        	int M = pat.length();
+        	int R = 256;
+        	dfa = new int[R][M];
+        	dfa[pat.charAt(0)][0] = 1;
+        	for(int X = 0, j = 1; j < M; j++){
+              for(int c = 0; c < R; c++){
+  				dfa[c][j] = dfa[c][X];
+              }
+            	dfa[pat.charAt(j)][j] = j+1;
+            	X= dfa[pat.charAt(j)][X];
+          }
+      }
+    	public int search(String txt){
+          int i, j, N = txt.length(), M = pat.length();
+        	for(i = 0; j = 0; i < N && j <M ; i++){
+              j = dfa[pat.charAt(i)][j];
+          }
+        	if(j == M) return i - N;
+        	else return N;
+      }
+  }
+  ```
 
-     ​
+  ​
 
-3. ####Boyer-Moore算法
-
-   ​	
+3. #### Boyer-Moore算法
 
    ```java
    public class BoyerMoore{
@@ -126,4 +121,5 @@
 
    ​
 
-   ​
+
+
